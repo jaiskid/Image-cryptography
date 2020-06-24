@@ -54,4 +54,21 @@ The decrypted Picture can be found at ```decrypted_images/pic3.png```
 
 ![](https://github.com/jaiskid/Image-cryptography/blob/master/decrypted_images/pic5.png)
 
+## Text Encryption
+The above project saves the Unlock key of Images which is in readable format to Encrypt the text file.
+Run
+``` python texten.py ```
 
+This will encrypt the text file into keys.txt.aes.
+In order to decrypt the keys.txt.aes file 
+Run
+``` python textdec.py ```
+
+This will decrypt the file in the readable format
+
+## Dependencies Modules
+``` pip install Image ```
+
+``` pip install PIL ```
+
+``` pip install pyAesCrypt ```
