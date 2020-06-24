@@ -30,28 +30,28 @@ The decrypted image can be found at the ```decrypted_images/``` folder.
 
 ## Example
 
-1. To encrypt the image ```pic3.png``` stored in the ```input``` folder
+1. To encrypt the image ```pic5.png``` stored in the ```input``` folder
 
-![](https://github.com/danny311296/Image-Cryptography/blob/master/input/pic3.png)
+![](https://github.com/jaiskid/Image-cryptography/blob/master/input/pic5.png)
 
 Run
-``` python encrypt.py pic3.png ```  
+``` python encrypt.py pic5.png ```  
 
-The encrypted Picture can be found at ```encrypted_images/pic3.png```
+The encrypted Picture can be found at ```encrypted_images/pic5.png```
 
-![](https://github.com/danny311296/Image-Cryptography/blob/master/encrypted_images/pic3.png)
+![](https://github.com/jaiskid/Image-cryptography/blob/master/encrypted_images/pic5.png)
 
 The keys are stored in ```keys.txt ```
 
 2. To decrypt the image
-
+https://github.com/jaiskid/Image-cryptography/blob/master/input/pic5.png
 Run
-``` python decrypt.py pic3.png ``` 
+``` python decrypt.py pic5.png ``` 
 
 and enter the key values (Kr, Kc and ITER_MAX)  
 
 The decrypted Picture can be found at ```decrypted_images/pic3.png```
 
-![](https://github.com/danny311296/Image-Cryptography/blob/master/decrypted_images/pic3.png)
+![](https://github.com/jaiskid/Image-cryptography/blob/master/decrypted_images/pic5.png)
 
 
